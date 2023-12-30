@@ -1,6 +1,25 @@
-div{
-	width: 100vw;
-	height: 50vh;
-	background-color: lightcoral;
+body{
+	background: grey;
 	
+}
+
+.container{
+	display: flex;
+	width: 90vw;
+	margin: auto;
+	background-color: white;
+}
+
+.details{
+}
+
+.info-container{
+	display: flex;
+}
+
+.img-card{
+	width: 100px;
+	height: 100px;
+	border: 1px solid;
+	height: 
 }
